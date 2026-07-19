@@ -1,0 +1,2 @@
+i change foor.txt 
+modifie to see effect on staging
